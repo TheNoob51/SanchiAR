@@ -1,4 +1,4 @@
-# Stupa - AR QR Code Application
+# SanchiAR - AR QR Code Application
 
 ## 1\. Project Overview
 **Stupa** is an augmented reality (AR) application designed to demonstrate real-time object placement by scanning a QR code. Users can scan a designated QR code with their mobile device, and the application will place a virtual 3D model (a "Stupa") into their real-world environment, anchored to the position of the code.
@@ -30,4 +30,4 @@ This project and its documentation are suitable for:
 *   Anyone looking to understand the mechanics of image tracking and real-time object placement in AR.
 ## 6\. Demonstration
 
-A live demonstration on a mobile device is the best way to understand the application's functionality, showcasing the user interface and the real-time AR object rendering in actio
+A live demonstration on a mobile device is the best way to understand the application's functionality, showcasing the user interface and the real-time AR object rendering in action: [Youtube](https://www.youtube.com/watch?v=Pj2WlW6fBN0)
